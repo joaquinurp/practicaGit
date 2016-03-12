@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * @author Joaquin Urbano Polo
  */
 
 public class Lib {
